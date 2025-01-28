@@ -1,0 +1,15 @@
+Apple @ A healthy fruit @ Food @ Fruit @ 1.80 @ Kg @ 100
+Tomato @ A healthy vegetable @ Food @ Vegetable @ 2.00 @ Kg @ 100
+Chicken Breast @ Fresh and lean meat @ Food @ Meat @ 5.50 @ Kg @ 50
+Can of Orange Juice @ Fresh and delicious @ Drink @ Juice @ 3.50 @ Unit @ 40
+Latte Beans @ A creamy coffee drink @ Drink @ Coffee @ 4.00 @ Kg @ 30
+Bottle of Beer @ A refreshing alcoholic beverage @ Drink @ Alcohol @ 2.50 @ Unit @ 60
+T-Shirt @ Casual and comfortable @ Clothing @ Shirt @ 10.00 @ Unit @ 80
+Jeans @ Stylish denim pants @ Clothing @ Pant @ 20.00 @ Unit @ 50
+Baseball Cap @ A trendy headwear @ Clothing @ Hat @ 8.00 @ Unit @ 100
+Detective Story @ An intriguing mystery novel @ Book @ Mystery @ 12.00 @ Unit @ 45
+Space Odyssey @ An epic sci-fi tale @ Book @ Sci-Fi @ 15.00 @ Unit @ 30
+Romantic Saga @ A timeless romance novel @ Book @ Romance @ 9.99 @ Unit @ 60
+Laptop @ A high-performance computer @ Tech @ Laptop @ 1200.00 @ Unit @ 20
+Smartphone @ Latest model with advanced features @ Tech @ Phone @ 800.00 @ Unit @ 40
+Tablet @ Ideal for reading and light work @ Tech @ Tablet @ 600.00 @ Unit @ 25

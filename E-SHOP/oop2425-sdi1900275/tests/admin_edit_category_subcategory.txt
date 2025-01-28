@@ -1,0 +1,9 @@
+login
+admin1
+pass1
+2
+Apple
+3
+Drink
+Tea
+7

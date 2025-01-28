@@ -1,0 +1,8 @@
+login
+admin1
+pass1
+2
+Apple
+1
+Dummy Apple
+7

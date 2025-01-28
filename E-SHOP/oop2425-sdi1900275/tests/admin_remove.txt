@@ -1,0 +1,6 @@
+login
+admin1
+pass1
+3
+Tomato
+7

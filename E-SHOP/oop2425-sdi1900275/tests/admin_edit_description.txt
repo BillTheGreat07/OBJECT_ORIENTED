@@ -1,0 +1,8 @@
+login
+admin1
+pass1
+2
+Apple
+2
+A dummy healthy fruit
+7

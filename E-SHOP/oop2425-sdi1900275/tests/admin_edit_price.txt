@@ -1,0 +1,8 @@
+login
+admin1
+pass1
+2
+Apple
+4
+99999
+7

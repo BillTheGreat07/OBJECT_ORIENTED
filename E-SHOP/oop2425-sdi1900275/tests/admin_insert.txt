@@ -1,0 +1,12 @@
+login
+admin1
+pass1
+1
+Dummy Product
+Dummy Description
+Tech
+Laptop
+500
+Unit
+1000
+7

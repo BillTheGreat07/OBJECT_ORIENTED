@@ -1,0 +1,11 @@
+---CART 1 START---
+10 Apple
+2 Can of Orange Juice
+6 Bottle of Beer
+---CART 1 END---
+Total Cost: 40
+
+---CART 2 START---
+1 Laptop
+---CART 2 END---
+Total Cost: 1200

@@ -1,0 +1,19 @@
+---CART 1 START---
+2 Smartphone
+2 Tablet
+---CART 1 END---
+Total Cost: 2800
+
+---CART 2 START---
+4 Space Odyssey
+10 Romantic Saga
+---CART 2 END---
+Total Cost: 159.9
+
+---CART 3 START---
+10 Chicken Breast
+3 Tomato
+8 Apple
+1 Jeans
+---CART 3 END---
+Total Cost: 95.4
